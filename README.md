@@ -2,6 +2,7 @@
 
 *其他版本*
 
+* [photo-trio 版](https://github.com/chenjiandongx/photo-trio)
 * [photo-go 版](https://github.com/chenjiandongx/photo-go)
 * [photo-gevent 版](https://github.com/chenjiandongx/photo-gevent)
 
